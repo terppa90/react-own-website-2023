@@ -31,8 +31,8 @@ export const homeObjTwo = {
   description:
     'I worked on the front-end development of the Skillhive service using Ember, JavaScript, and CSS/SCSS. My responsibilities included integrating the front end with the Skillhive API and managing version control with GitHub. The development followed an agile workflow as part of a distributed software team.',
   buttonLabel: '',
-  imgStart: '',
-  img: Work,
+  imgStart: 'start',
+  img: Work2,
   alt: 'Credit Card',
   start: '',
 };
@@ -64,7 +64,7 @@ export const homeObjFour = {
   headline: 'Forestry Worker',
   description: 'Stacking energy tree.',
   buttonLabel: '',
-  imgStart: '',
+  imgStart: 'start',
   img: Work2,
   alt: 'Credit Card',
   start: '',
@@ -81,7 +81,7 @@ export const homeObjFive = {
   description: 'Mortar making, stone cutting and cleaning of tools.',
   buttonLabel: '',
   imgStart: '',
-  img: Work3,
+  img: Work,
   alt: 'Credit Card',
   start: '',
 };
@@ -97,8 +97,8 @@ export const homeObjSix = {
   description:
     'Quality control, filling in waybills, product storage and other general bakery production tasks.',
   buttonLabel: '',
-  imgStart: '',
-  img: Work4,
+  imgStart: 'start',
+  img: Work2,
   alt: 'Credit Card',
   start: '',
 };

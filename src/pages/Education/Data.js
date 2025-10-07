@@ -49,8 +49,8 @@ export const homeObjThree = {
   description:
     'Full-Stack developer studies with technologies like React, JavaScript and Node.js.',
   buttonLabel: '',
-  imgStart: 'start',
-  img: ImageEight,
+  imgStart: '',
+  img: ImageNine,
   alt: 'Vault',
   start: 'true',
 };
@@ -67,8 +67,8 @@ export const homeObjFour = {
     // 'Web-developing with modern technologies and frameworks like Angular, Node.js and Express.',
     'The Web Developer program covered a broad range of topics in modern software and web development. The studies included the fundamentals of programming, data structures and algorithms, and web development basics. Students gained practical experience with front-end development, Node.js application development, and mobile web technologies. The coursework also involved database design using both relational (SQL) and NoSQL databases, AWS cloud services, and software development tools commonly used in the industry. The program concluded with a project-based assignment focusing on front-end application development, integrating the skills learned throughout the studies.',
   buttonLabel: '',
-  imgStart: '',
-  img: ImageNine,
+  imgStart: 'start',
+  img: ImageEight,
   alt: 'picture',
   start: '',
 };
@@ -84,8 +84,8 @@ export const homeObjFive = {
   description:
     'XR and VR oriented programming with C++, 3D-modeling with Blender and game engines.',
   buttonLabel: '',
-  imgStart: 'start',
-  img: ImageEleven,
+  imgStart: '',
+  img: ImageNine,
   alt: 'Vault',
   start: 'true',
 };
@@ -101,7 +101,7 @@ export const homeObjSix = {
   description:
     'Information Technology skills, like implementation and counseling of information and communication devices and work tool programs.',
   buttonLabel: '',
-  imgStart: '',
+  imgStart: 'start',
   img: ImageTwelve,
   alt: 'picture',
   start: '',

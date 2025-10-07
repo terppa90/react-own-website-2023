@@ -6,6 +6,7 @@ import {
   homeObjThree,
   homeObjFour,
   homeObjFive,
+  homeObjSix,
 } from './Data';
 
 const Education = () => {
@@ -16,6 +17,7 @@ const Education = () => {
       <InfoSection {...homeObjThree} />
       <InfoSection {...homeObjFour} />
       <InfoSection {...homeObjFive} />
+      <InfoSection {...homeObjSix} />
     </>
   );
 };
