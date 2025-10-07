@@ -26,10 +26,10 @@ export const homeObjTwo = {
   lightTopLine: true,
   lightText: false,
   lightTextDesc: true,
-  topLine: 'Lisäpalvelu/Koneurakointi Hirvi Oy',
-  headline: 'Lumberjack',
+  topLine: 'Intunex Oy',
+  headline: 'Front-end Developer',
   description:
-    'Mowing the hay, use of a clearing saw and clearing saw maintenance.',
+    'I worked on the front-end development of the Skillhive service using Ember, JavaScript, and CSS/SCSS. My responsibilities included integrating the front end with the Skillhive API and managing version control with GitHub. The development followed an agile workflow as part of a distributed software team.',
   buttonLabel: '',
   imgStart: '',
   img: Work,
@@ -43,6 +43,23 @@ export const homeObjThree = {
   lightTopLine: false,
   lightText: true,
   lightTextDesc: true,
+  topLine: 'Lisäpalvelu/Koneurakointi Hirvi Oy',
+  headline: 'Lumberjack',
+  description:
+    'Mowing the hay, use of a clearing saw and clearing saw maintenance.',
+  buttonLabel: '',
+  imgStart: '',
+  img: Work,
+  alt: 'Credit Card',
+  start: '',
+};
+
+export const homeObjFour = {
+  primary: false,
+  lightBg: true,
+  lightTopLine: true,
+  lightText: false,
+  lightTextDesc: true,
   topLine: 'City of Jyväskylä',
   headline: 'Forestry Worker',
   description: 'Stacking energy tree.',
@@ -53,11 +70,11 @@ export const homeObjThree = {
   start: '',
 };
 
-export const homeObjFour = {
-  primary: false,
-  lightBg: true,
-  lightTopLine: true,
-  lightText: false,
+export const homeObjFive = {
+  primary: true,
+  lightBg: false,
+  lightTopLine: false,
+  lightText: true,
   lightTextDesc: true,
   topLine: 'Tmi Kaihula',
   headline: 'A Bricklayers Apprentice',
@@ -69,11 +86,11 @@ export const homeObjFour = {
   start: '',
 };
 
-export const homeObjFive = {
-  primary: true,
-  lightBg: false,
-  lightTopLine: false,
-  lightText: true,
+export const homeObjSix = {
+  primary: false,
+  lightBg: true,
+  lightTopLine: true,
+  lightText: false,
   lightTextDesc: true,
   topLine: 'Elonen Oy',
   headline: 'Production Worker',
